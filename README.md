@@ -16,12 +16,15 @@ Whether you're working with PLCnext, IO modules, CBs, UPS, Hybrid motor starters
 
 ## Repository Structure
 /projects -> Complete solutions
+
 /applications -> Reusable code and templates
+
 /guides -> Step-by-step integration and configuration
 
 
 ## 🌐 Link & Resources ##
 Phoenix Contact website - www.phoenixcontact.com
+
 PLCnext Technology - plcnext-community.net
 
 ## 🙋‍♂️ Maintainer ##
