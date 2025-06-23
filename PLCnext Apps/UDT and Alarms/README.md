@@ -1,5 +1,8 @@
 # UDT and Alarm List #
 ## Pre-requisite ##
+PLCnext Engineer 2025.0.2 
+
+Simulator for AXC F 2152 FW 2023.0.0 
 
 ## Description ##
 This project contains three columns where all alarms are displayed - three columns: time (String), Status (String) and Description (String).
